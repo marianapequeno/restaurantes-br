@@ -1,4 +1,4 @@
 # restaurantes-br
-Projeto feito para treinar posicionamento em css e media-queries
+Projeto feito com HTML E CSS para treinar posicionamento em css e responsividade (media-queries).
 
 Link :point_right: https://restaurantebrasil.netlify.app
